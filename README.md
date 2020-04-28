@@ -13,3 +13,6 @@ What this app can do:-
 TO-DO LIST:
 1. CREATE FRONT-END DESIGN
 2. CREATE BACK-END DESIGN
+
+Additional info:
+-IG story template size is 1080px by 1920px (9:16)
