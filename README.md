@@ -16,3 +16,5 @@ TO-DO LIST:
 
 Additional info:
 -IG story template size is 1080px by 1920px (9:16)
+
+-in progress, not done yet
