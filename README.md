@@ -11,7 +11,7 @@ What this app can do:-
 5. export the image and done.
 
 TO-DO LIST:
-1. CREATE FRONT-END DESIGN
+1. CREATE PROTOTYPE
 2. CREATE BACK-END DESIGN
 
 Additional info:
