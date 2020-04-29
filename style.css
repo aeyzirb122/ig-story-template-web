@@ -3,13 +3,39 @@ html, body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.ref {
+    color: inherit;
+}
+
 .padx {
     padding-left: 100px;
     padding-right: 100px;
 }
 
+.padb {
+    padding-bottom: 20px;
+}
+
+.pad_bot {
+    padding-bottom: 80px;
+}
+
+.marx {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
 .card_style {
+    width: 250px;
     height: 350px;
+    margin: 10px;
+    background-color: grey;
+}
+
+.card_style_2 {
+    width: 150px;
+    height: 250px;
+    background-color: grey;
 }
 
 .img_size {
