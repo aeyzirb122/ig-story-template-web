@@ -45,6 +45,10 @@ html, body {
     background-color: grey;
 }
 
+.card_img {
+    width: 100%;
+}
+
 .img_size {
     object-fit: cover;
     max-width: 50%;
