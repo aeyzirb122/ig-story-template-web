@@ -1,7 +1,7 @@
 # ig-story-template-web
  base for ig story web app - no name yet
 
- This is the web prototype for ig story web app. The web app will be created later.
+ This is the web prototype for ig story web app. The progressive web app will be created later.
 
 What this app can do:-
 1. This app has templates for ig story ONLY for images.
@@ -11,7 +11,7 @@ What this app can do:-
 5. export the image and done.
 
 TO-DO LIST:
-1. CREATE PROTOTYPE
+1. CREATE PROTOTYPE /
 2. CREATE BACK-END DESIGN
 
 Additional info:
