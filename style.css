@@ -13,7 +13,11 @@ html, body {
 }
 
 .padb {
-    padding-bottom: 5px;
+    padding-bottom: 20px;
+}
+
+.padb2 {
+    padding-bottom: 15px;
 }
 
 .pad_bot {
@@ -22,6 +26,10 @@ html, body {
 
 .marx {
     margin: 15px;
+}
+
+.mar_bot {
+    margin-bottom: 50px;
 }
 
 .card_style {
